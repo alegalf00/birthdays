@@ -12,6 +12,7 @@ def print_birthdays():
         print(name)
 
 def return_birthday(name):
+    ''' Function to print the birthday of a defined person'''
     if name in birthdays:
         print('{}\'s birthday is {}.'.format(name, birthdays[name]))
     else:
