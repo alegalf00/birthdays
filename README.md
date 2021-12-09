@@ -20,5 +20,9 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 ## Change 4!
 ## Change 5!
 ## Change 6!
+<<<<<<< HEAD
 
+=======
+## Change 7!
+>>>>>>> y
 
